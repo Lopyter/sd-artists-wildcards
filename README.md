@@ -14,7 +14,8 @@ Explanation for "digipa", "c" and "n" categories as per Automatic1111 on Discord
 > c and n are no comment  
 >misclassified  
 
+artist-csv contains every artist in the csv file
 
-# Credits
+## Credits
 
 * [Automatic1111](https://github.com/AUTOMATIC1111) for the original artists.csv file
